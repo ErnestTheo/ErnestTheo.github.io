@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 title: Ernest Theo
 description: Mechanical Engineer/ Test Engineer
-[Certification]({% link certificates.md %})
+link: [Certification]({% link certificates.md %})
