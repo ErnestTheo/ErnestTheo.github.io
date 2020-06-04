@@ -1,5 +1,5 @@
 # Welcome to my website
-## I will be using this webiste as an online resume to show off pictures, projects, certificates etc. 
+## I will be using this website as an online personal resume/protfolio. 
 ### Here are my goals for my site:
 
 - [ ] Create an about me
