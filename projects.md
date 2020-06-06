@@ -4,6 +4,6 @@
 ![line](Pictures/line.jpg)
 
 ## Anti-Theft Tag
-![Gif](Pictures\tag\ani.gif)
+![Gif](Pictures\tag\tag.gif)
 ![big](Pictures\tag\big.JPG)
 ![flat](Pictures\tag\flat.jpg)
