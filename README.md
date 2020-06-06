@@ -1,2 +1,2 @@
-# Welcome to my website
-[Resume](resumes.md) | [Training and Certification](certificates.md)
+# Ernest Theo
+[Home](README.md) | [Resume](resumes.md) | [Certificates](certificates.md) | [projects](projects.md)
