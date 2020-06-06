@@ -1,3 +1,4 @@
+[Home](README.md) | [Resume](resumes.md) | [Certificates](certificates.md) | [projects](projects.md)
 # Ernest Theo Cabreza
 #### Mechanical Engineer/ Test Engineer
 ernesttheo19@gmail.com | [www.LinkedIn.com/in/ErnestTheo](https://www.linkedin.com/in/ernesttheo/)
