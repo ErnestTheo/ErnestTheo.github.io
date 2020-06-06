@@ -5,3 +5,5 @@
 
 ## Anti-Theft Tag
 ![Gif](Pictures\tag\ani.gif)
+![big](Pictures\tag\big.JPG)
+![flat](Pictures\tag\flat.jpg)
