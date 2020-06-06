@@ -1,5 +1,7 @@
-# Certificates and Training
+# Certificates
 [Home](README.md) | [Resume](resumes.md) | [Certificates](certificates.md) | [projects](projects.md)
+![line](Pictures/line.jpg)
+
 ## SolidWorks
 
 ![CSWP](Certificates/Certificate_C-2NVX9SBC5Y.jpg)
