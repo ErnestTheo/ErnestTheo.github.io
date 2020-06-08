@@ -25,3 +25,21 @@ June 2016 – August 2016
 * Employed Autodesk CFD to design heatsink for test fixture and ensure temperatures did not exceed 70° C
 * Created 40+ technical drawings and BOM for models to document details of parts and assembly for machining
 * Assembled 20+ manufactured parts to troubleshoot and verify design assembly were made to specification
+
+#### EDUCATION
+** – Mechanical Engineering	December 2017
+* *San Jose State University*
+
+
+#### TRAINING AND CERTIFICATIONS
+*AMERICAN SOCIETY FOR QUALITY*
+* *Measurement Uncertainty*, **via  American Association for Laboratory Accreditation**
+
+
+*CERTIFIED SOLIDWORKS PROFESSIONAL (CSWP)*, **Dassault Systemes SolidWorks Corporation**
+* Mechanical Design, Advanced Sheet Metal, Advanced Drawing Tools
+
+
+#### TECHNICAL SKILLS
+
+SolidWorks | MATLAB | Microsoft Excel | Microsoft Word | Google Suite | Basic Hand Tools | 3D Printing
