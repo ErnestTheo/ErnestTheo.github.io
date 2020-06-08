@@ -6,7 +6,7 @@
 #### Mechanical Engineer/ Test Engineer
 ernesttheo19@gmail.com | [www.LinkedIn.com/in/ErnestTheo](https://www.linkedin.com/in/ernesttheo/)
 
-#### Professional Experience
+### Professional Experience
 **Test Engineer - Quadrant (San Jose, CA)**
 
 May 2018 - Present
@@ -26,12 +26,12 @@ June 2016 – August 2016
 * Created 40+ technical drawings and BOM for models to document details of parts and assembly for machining
 * Assembled 20+ manufactured parts to troubleshoot and verify design assembly were made to specification
 
-#### EDUCATION
+### EDUCATION
 **Bachelor of Science** – Mechanical Engineering	December 2017
 * *San Jose State University*
 
 
-#### TRAINING AND CERTIFICATIONS
+### TRAINING AND CERTIFICATIONS
 *AMERICAN SOCIETY FOR QUALITY*
 * **Measurement Uncertainty**, *via  American Association for Laboratory Accreditation*
 
@@ -40,6 +40,6 @@ June 2016 – August 2016
 * Mechanical Design, Advanced Sheet Metal, Advanced Drawing Tools
 
 
-#### TECHNICAL SKILLS
+### TECHNICAL SKILLS
 
 SolidWorks, MATLAB, Microsoft Excel, Microsoft Word, Google Suite, Basic Hand Tools, 3D Printing
