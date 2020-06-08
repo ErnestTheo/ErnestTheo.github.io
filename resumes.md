@@ -20,7 +20,7 @@ May 2018 - Present
 
 June 2016 – August 2016
 KLA-Tencor	Milpitas, CA
-Utilized CAD software to design test fixture, creating a mechanism to allow safe housing and testing of 2 PCBs
-Employed Autodesk CFD to design heatsink for test fixture and ensure temperatures did not exceed 70° C
-Created 40+ technical drawings and BOM for models to document details of parts and assembly for machining
-Assembled 20+ manufactured parts to troubleshoot and verify design assembly were made to specification
+* Utilized CAD software to design test fixture, creating a mechanism to allow safe housing and testing of 2 PCBs
+* Employed Autodesk CFD to design heatsink for test fixture and ensure temperatures did not exceed 70° C
+* Created 40+ technical drawings and BOM for models to document details of parts and assembly for machining
+* Assembled 20+ manufactured parts to troubleshoot and verify design assembly were made to specification
