@@ -32,7 +32,7 @@ June 2016 – August 2016
 
 
 ### TRAINING AND CERTIFICATIONS
-*AMERICAN SOCIETY FOR QUALITY*
+**AMERICAN SOCIETY FOR QUALITY**
 * **Measurement Uncertainty**, *via  American Association for Laboratory Accreditation*
 
 
