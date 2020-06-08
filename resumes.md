@@ -27,7 +27,7 @@ June 2016 – August 2016
 * Assembled 20+ manufactured parts to troubleshoot and verify design assembly were made to specification
 
 #### EDUCATION
-** – Mechanical Engineering	December 2017
+*Bachelor of Science* – Mechanical Engineering	December 2017
 * *San Jose State University*
 
 
@@ -42,4 +42,4 @@ June 2016 – August 2016
 
 #### TECHNICAL SKILLS
 
-SolidWorks | MATLAB | Microsoft Excel | Microsoft Word | Google Suite | Basic Hand Tools | 3D Printing
+SolidWorks, MATLAB, Microsoft Excel, Microsoft Word, Google Suite, Basic Hand Tools, 3D Printing
