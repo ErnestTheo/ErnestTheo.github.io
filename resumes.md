@@ -10,6 +10,7 @@ ernesttheo19@gmail.com | [www.LinkedIn.com/in/ErnestTheo](https://www.linkedin.c
 *Test Engineer - Quadrant (San Jose, CA)*
 
 May 2018 - Present
+
 * Oversee Quality Assurance by utilizing optical measurement machine and ensure part dims are within +/- 0.05mm tolerance
 * Analyze 50K+ data points from magnetic field scanner with Excel and visualize data with MATLAB
 * Improve standard operating procedures for demagnetization of samples to <1% full saturation, reducing test lead times by 50%
@@ -19,7 +20,7 @@ May 2018 - Present
 *MECHANICAL ENGINEER INTERN -	KLA-Tencor	(Milpitas, CA)*
 
 June 2016 – August 2016
-KLA-Tencor	Milpitas, CA
+
 * Utilized CAD software to design test fixture, creating a mechanism to allow safe housing and testing of 2 PCBs
 * Employed Autodesk CFD to design heatsink for test fixture and ensure temperatures did not exceed 70° C
 * Created 40+ technical drawings and BOM for models to document details of parts and assembly for machining
