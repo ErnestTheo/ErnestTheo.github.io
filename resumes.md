@@ -7,7 +7,7 @@
 ernesttheo19@gmail.com | [www.LinkedIn.com/in/ErnestTheo](https://www.linkedin.com/in/ernesttheo/)
 
 #### Professional Experience
-*Test Engineer - Quadrant (San Jose, CA)*
+**Test Engineer - Quadrant (San Jose, CA)**
 
 May 2018 - Present
 
@@ -17,7 +17,7 @@ May 2018 - Present
 * Operate test equipment in lab and generate reports for 3 project management teams from daily experiment data
 * Design 3D printed test fixtures to align and mount magnet samples on stage for force testing
 
-*MECHANICAL ENGINEER INTERN -	KLA-Tencor	(Milpitas, CA)*
+**MECHANICAL ENGINEER INTERN -	KLA-Tencor	(Milpitas, CA)**
 
 June 2016 – August 2016
 
@@ -27,16 +27,16 @@ June 2016 – August 2016
 * Assembled 20+ manufactured parts to troubleshoot and verify design assembly were made to specification
 
 #### EDUCATION
-*Bachelor of Science* – Mechanical Engineering	December 2017
+**Bachelor of Science** – Mechanical Engineering	December 2017
 * *San Jose State University*
 
 
 #### TRAINING AND CERTIFICATIONS
 *AMERICAN SOCIETY FOR QUALITY*
-* *Measurement Uncertainty*, **via  American Association for Laboratory Accreditation**
+* **Measurement Uncertainty**, *via  American Association for Laboratory Accreditation*
 
 
-*CERTIFIED SOLIDWORKS PROFESSIONAL (CSWP)*, **Dassault Systemes SolidWorks Corporation**
+**CERTIFIED SOLIDWORKS PROFESSIONAL (CSWP)**, *Dassault Systemes SolidWorks Corporation*
 * Mechanical Design, Advanced Sheet Metal, Advanced Drawing Tools
 
 
