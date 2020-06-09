@@ -11,6 +11,9 @@
 ![CSWPA-DT](Certificates/Certificate_C-RKWNTYVLF8.jpg)
 [Certified SolidWorks Professional Advanced Drawing Tools](Certificates/Certificate_C-RKWNTYVLF8.pdf)
 
+![CSWPA-WT](Certificates\Certificate_C-PTYA4V5KCF.jpg)
+[Certified SolidWorks Professional Advanced Weldments](Certificates\Certificate_C-PTYA4V5KCF.pdf)
+
 ## American Society of Quality (ASQ)
 
 ![MU](Certificates/MeasurementUncertainty-ETC.jpg)
