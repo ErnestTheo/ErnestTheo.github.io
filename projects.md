@@ -7,22 +7,29 @@
 ```python
 # Work in Progress
 import pandas as pd
-import matplotlib.pyplot as plt
+
+df = pd.read_csv("data.txt",error_bad_lines=False, sep ='\t', index_col = 0, encoding='cp1252')
+
+length = len(df)
 
 
-df = pd.read_csv("xyz.txt",sep="\t",error_bad_lines=False, index_col=0, encoding='cp1252',)
-df.to_csv('newcsv.csv')
+
+df = df.drop(df.columns[[8, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33]], axis=1)
+
 a = df.iloc[:,0].max()
-print(df)
+print(df.iloc[:,0])
 sn = df.groupby('           Slice')
 
 
-writer = pd.ExcelWriter('Mag.xlsx', engine='xlsxwriter')
+filename = 'report.xlsx'
+
+writer = pd.ExcelWriter(filename, engine='xlsxwriter')
 
 for i in range(int(a)):
     sn.get_group(i+1).to_excel(writer, index=False, sheet_name='Slice ' + str(i+1))
 
 writer.save()
+
 ```
 ## Anti-Theft Tag
 ![Gif](Pictures\tag\tag.gif)
