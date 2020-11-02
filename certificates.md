@@ -18,6 +18,13 @@
 ![CSWPA-WT](Certificates\Certificate_C-PTYA4V5KCF.jpg)
 [Certified SolidWorks Professional Advanced Weldments](Certificates\Certificate_C-PTYA4V5KCF.pdf)
 
+
+## SAE International
+
+![MU](Certificates\Certificate-145464.jpg)
+[Measurement Uncertainity](Certificates\Certificate-145464.pdf)  
+*via CALISO*
+
 ## American Society of Quality (ASQ)
 
 ![MU](Certificates/MeasurementUncertainty-ETC.jpg)
