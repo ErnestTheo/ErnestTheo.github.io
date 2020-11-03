@@ -34,7 +34,7 @@ June 2016 – August 2016
 ### TRAINING AND CERTIFICATIONS
 
 **SAE International**
-* **ISO 13485 Standard Training** *via CALISO*
+* **ISO 13485:2016 Standard Training** *via CALISO*
 
 **AMERICAN SOCIETY FOR QUALITY**
 * **Measurement Uncertainty**, *via  American Association for Laboratory Accreditation*
