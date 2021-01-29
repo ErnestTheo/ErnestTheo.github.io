@@ -35,13 +35,14 @@ June 2016 – August 2016
 
 **SAE International**
 * **ISO 13485:2016 Standard Training** *via CALISO*
+* **Design of Experiments (DOE) for Engineers** *via CALISO*
 
 **AMERICAN SOCIETY FOR QUALITY**
 * **Measurement Uncertainty**, *via  American Association for Laboratory Accreditation*
 
 
 **CERTIFIED SOLIDWORKS PROFESSIONAL (CSWP)**, *Dassault Systemes SolidWorks Corporation*
-* Mechanical Design, Advanced Sheet Metal, Advanced Drawing Tools
+* Mechanical Design, Advanced Sheet Metal, Advanced Drawing Tools, Advanced Weldments
 
 
 ### TECHNICAL SKILLS
